@@ -1,10 +1,10 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              Matthew C. Baron
+bio:                'Acoustics and Signal Processing Advanced Development Engineer \\ Hobbyist Photographer'
+description:        "Acoustics and Signal Processing Advanced Development Engineer \\ Hobbyist Photographer"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "mcbaron.org" # the base hostname & protocol for your site
 
 defaults:
 - scope:
@@ -13,7 +13,7 @@ defaults:
   values:
     permalink: "/blog/:title/"
     layout: post
-    author:
+    author: mcbaron
 
 # Jekyll
 permalink:          /blog/:title/
@@ -35,15 +35,15 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
+twitter:            mbaron
 facebook:           default
 instagram:          default
-github:             default
+github:             mcbaron
 
 # personal
 location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+phone:              default
+email:              mcbaron@cmu.edu
 
 # Gems
 gems:

@@ -1,27 +1,23 @@
 ---
-layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+layout: null
+title: Matthew C. Baron
+description: Acoustics and Signal Processing Advanced Development Engineer \\ Hobbyist Photographer 
 sitemap:
-    priority: 0.7
+    priority: 1.0
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## About our Site
+## About 
 
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+Matthew Baron was born and raised in the glass city, Toledo Ohio. From there, he attended Carnegie Mellon University in Pittsburgh, PA where he graduated with a dual degree; Electrical & Computer Engineering and Hispanic Studies in 2014. Currently living outside of Boston, he works for Bose Corporation's Automotive Division as an Acoustic Advanced Development Engineer. He will return to CMU for a Masters in Electrical & Computer Engineering during the 2017-2018 academic year.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+Current projects build on passion and background in signal processing, as he focuses on acoustics, image processing, and signal processing on graphs.
 
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div>
+---
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+Matthew Baron nació y creció en la cuidad de vidrio, Toledo Ohio. Desde allí, asistió a la universidad Carnegie Mellon en Pittsburgh, donde graduó en 2014 con título doble; ingeniero eléctrico y estudios hispanos. Ahora vive cerca de Boston, trabaja para la corporación Bose en la división automotriz como ingeniero de sistemas acústicos. Devolverá a Carnegie Mellon para el año escolar 2017-2018 para cumplir el maestro en ingeniero eléctrico.
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+Proyectos actuales expanden del interés y su experiencia en el procesamiento de señales. Enfoca en acústicos, el procesamiento de imagenes y el procesamiento de señales en grafos.
+
