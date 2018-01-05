@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: blog
 title: Matthew C. Baron
 description: Acoustics and Signal Processing Advanced Development Engineer \\ Hobbyist Photographer 
 sitemap:
