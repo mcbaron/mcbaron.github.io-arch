@@ -14,6 +14,13 @@ defaults:
     permalink: "/blog/:title/"
     layout: post
     author: mcbaron
+- scope:
+    path: ''
+    type: projectposts
+  values:
+    permalink: "/projects/:title/"
+    layout: projectpost
+    author: mcbaron
 
 # Jekyll
 permalink:          /blog/:title/
