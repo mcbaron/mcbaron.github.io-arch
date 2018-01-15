@@ -22,6 +22,9 @@ defaults:
     layout: projectpost
     author: mcbaron
 
+collections:
+  - projectposts
+
 # Jekyll
 permalink:          /blog/:title/
 markdown:           kramdown
