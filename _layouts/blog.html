@@ -54,6 +54,9 @@
 					<!-- Post -->
 					<section class="posts">
 						{% for post in site.posts %}
+						{% if post.tag == "project" %}
+							{% continue %}
+					    {% endif %}
 						{% assign mod3 = forloop.index | modulo: 3 %}
 							<article>
 								<header>
@@ -62,7 +65,6 @@
 								</header>
 								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
 								<p>{{ post.excerpt }}</p>
-								<p>{{ post.tag }}</p>
 								<ul class="actions">
 									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
 								</ul>

@@ -52,7 +52,10 @@
           </article>
 					<!-- Post -->
 					<section class="projectposts">
-						{% for post in site.projectposts %}
+						{% for post in site.posts %}
+						{% if post.tag == "photo" %}
+							{% continue %}
+					  	{% endif %}
 						{% assign mod3 = forloop.index | modulo: 3 %}
 							<article>
 								<header>
