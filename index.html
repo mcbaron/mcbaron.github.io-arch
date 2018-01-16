@@ -76,7 +76,7 @@ sitemap:
 
 						<!-- Posts -->
 							<section class="posts">
-                {% for post in site.posts limit:6 %}
+                {% for post in site.collections limit:6 %}
                 {% assign mod3 = forloop.index | modulo: 3 %}
   								<article>
   									<header>
