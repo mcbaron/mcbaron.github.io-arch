@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Matthew C. Baron
-description: Acoustics and Signal Processing Advanced Development Engineer \\ Hobbyist Photographer 
+description: Intersection of Signal Processing and Deep Learning \\ member of BAA Racing Team 
 sitemap:
     priority: 1.0
     lastmod: 2017-11-02

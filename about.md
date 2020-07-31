@@ -1,22 +1,18 @@
 ---
 layout: page
 title: Matthew C. Baron
-description: Acoustics and Signal Processing Advanced Development Engineer \\ Hobbyist Photographer 
+description: Intersection of Signal Processing and Deep Learning \\ member of BAA Racing Team 
 sitemap:
     priority: 1.0
-    lastmod: 2017-11-02
-    changefreq: weekly
+    lastmod: 2020-07-31
+    changefreq: yearly
 ---
 ## About 
 
-Matthew Baron was born and raised in the glass city, Toledo Ohio. From there, he attended Carnegie Mellon University in Pittsburgh, PA where he graduated with a dual degree; Electrical & Computer Engineering and Hispanic Studies in 2014. Currently living outside of Boston, he works for Bose Corporation's Automotive Division as an Acoustic Advanced Development Engineer. He will return to CMU for a Masters in Electrical & Computer Engineering during the 2017-2018 academic year.
+Matthew Baron was born and raised in the glass city, Toledo Ohio. From there, he attended Carnegie Mellon University in Pittsburgh, PA where he graduated with a dual degree; Electrical & Computer Engineering and Hispanic Studies in 2014. For the 2017-2018 academic year, he returned to CMU and completed a MS in ECE with a focus on Machine Learning for Signal Processing.
 
 Current projects build on passion and background in signal processing, as he focuses on acoustics, image processing, and signal processing on graphs.
 
----
+In late July 2020, he was laid off from his engineering position as a consequence of the economic factors of COVID-19. Instead of jumping back into the job search, he decided to self-sponsor as a "professional" athelete. He tries to update this blog weekly with thoughts and ideas related to his training. 
 
-Matthew Baron nació y creció en la cuidad de vidrio, Toledo Ohio. Desde allí, asistió a la universidad Carnegie Mellon en Pittsburgh, donde graduó en 2014 con título doble; ingeniero eléctrico y estudios hispanos. Ahora vive cerca de Boston, trabaja para la corporación Bose en la división automotriz como ingeniero de sistemas acústicos. Devolverá a Carnegie Mellon para el año escolar 2017-2018 para cumplir el maestro en ingeniero eléctrico.
-
-Proyectos actuales expanden del interés y su experiencia en el procesamiento de señales. Enfoca en acústicos, el procesamiento de imagenes y el procesamiento de señales en grafos.
-
-## [Resume](/static/resume-fall-17.pdf) 
+## [Resume](/static/resume-mcbaron.pdf)

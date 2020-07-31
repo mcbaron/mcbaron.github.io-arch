@@ -1,7 +1,7 @@
 # Site
 title:              Matthew C. Baron
-bio:                'Acoustics and Signal Processing Advanced Development Engineer \\ Hobbyist Photographer'
-description:        "Acoustics and Signal Processing Advanced Development Engineer // Hobbyist Photographer"
+bio:                'Intersection of Signal Processing and Deep Learning \\ member of BAA Racing Team '
+description:        "Intersection of Signal Processing and Deep Learning \\ member of BAA Racing Team "
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -52,9 +52,9 @@ instagram:          default
 github:             mcbaron
 
 # personal
-location:           Pittsburgh, PA / Boston, MA
+location:           Cambridge, MA
 phone:              default
-email:              mcbaron@cmu.edu
+email:              mcbaron@alumni.cmu.edu
 
 # Gems
 gems:
