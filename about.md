@@ -13,6 +13,6 @@ Matthew Baron was born and raised in the glass city, Toledo Ohio. From there, he
 
 Current projects build on passion and background in signal processing, as he focuses on acoustics, image processing, and signal processing on graphs.
 
-In late July 2020, he was laid off from his engineering position as a consequence of the economic factors of COVID-19. Instead of jumping back into the job search, he decided to self-sponsor as a "professional" athelete. He tries to update this blog weekly with thoughts and ideas related to his training. 
+Matthew continues to strive for excellence as a runner as a member of the racing team for the Boston Athletic Association.  Read this blog weekly with his thoughts and ideas related to training during COVID-19. 
 
 ## [Resume](/static/resume-mcbaron.pdf)
